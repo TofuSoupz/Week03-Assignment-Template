@@ -60,12 +60,12 @@ Recall that a `str` comes with the `replace` method, per [docs.python.org/3/libr
 
 - Use the VS code Source Control Tab to submit your assignment:
     - Click on the `+` sign next to the files you want to include, in this case `tip.py`
-    - Write a commit message, e.g., "Finished with assignment 03"
+    - Write a commit message, e.g., "Finished with assignment 03."
     - Select "Commit and Push".
 - Alternativally, you can use git to add, commit, and push your changes:
     ```bash
     git add tip.py
-    git commit -m "Finished with assignment 3"
+    git commit -m "Finished with assignment 3."
     git push
     ```
  

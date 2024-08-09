@@ -34,12 +34,12 @@ Follow these steps to test your code:
 
 - Use the VS code Source Control Tab to submit your assignment:
     - Click on the `+` sign next to the files you want to include, in this case `hello.py`
-    - Write a commit message, e.g., "Finished with exercise 1"
+    - Write a commit message, e.g., "Finished with exercise 1."
     - Select "Commit and Push".
 - Alternativally, you can use git to add, commit, and push your changes:
     ```bash
     git add hello.py
-    git commit -m "Finished with exercise 1"
+    git commit -m "Finished with exercise 1."
     git push
     ```
 Notice that by doing these steps you are only updating your assignment repository with the solution to this exercise. You still need to work on the other exercises and submit them. 

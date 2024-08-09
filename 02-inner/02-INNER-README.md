@@ -8,7 +8,7 @@ In a file called `inner.py`, implement a program in Python that prompts the user
 - Open the `inner.py` file.
 - In your terminal, change the directory to `02-inner` with
     ```bash
-    cd 02-inne
+    cd 02-inner
     ```
 - Make the necessary changes to `inner.py` as per the instructions.
 
@@ -29,8 +29,8 @@ In a file called `inner.py`, implement a program in Python that prompts the user
 If you run into an error saying your file cannot be opened, retrace your steps to be sure that you are inside your `02-inner` folder and have saved your `inner.py` file there. Remember how?
 
 ## Hints
-- Recall that `input` returns a `str`, per [Python's input documentation](https://docs.python.org/3/library/functions.html#input).</li>
-- Recall that a `str` comes with quite a few methods, per [Python's string methods documentation](https://docs.python.org/3/library/stdtypes.html#string-methods).</li>
+- Recall that `input` returns a `str`, per [Python's input documentation](https://docs.python.org/3/library/functions.html#input).
+- Recall that a `str` comes with the `lower` method, per [docs.python.org/3/library/stdtypes.html#str.lower](https://docs.python.org/3/library/stdtypes.html#str.lower).
 
 ## How to Test
 
@@ -44,12 +44,12 @@ If you run into an error saying your file cannot be opened, retrace your steps t
 
 - Use the VS code Source Control Tab to submit your assignment:
     - Click on the `+` sign next to the files you want to include, in this case `inner.py`
-    - Write a commit message, e.g., "Finished with exercise 2"
+    - Write a commit message, e.g., "Finished with exercise 2."
     - Select "Commit and Push".
 - Alternativally, you can use git to add, commit, and push your changes:
     ```bash
     git add inner.py
-    git commit -m "Finished with exercise 2"
+    git commit -m "Finished with exercise 2."
     git push
     ```
 Notice that by doing these steps you are only updating your assignment repository with the solution to this exercise. You still need to work on the other exercises and submit them. 

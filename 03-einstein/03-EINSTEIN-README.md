@@ -53,12 +53,12 @@ Prompt the user for mass as an integer (in kilograms)
 
 - Use the VS code Source Control Tab to submit your assignment:
     - Click on the `+` sign next to the files you want to include, in this case `einstein.py`
-    - Write a commit message, e.g., "Finished with exercise 3"
+    - Write a commit message, e.g., "Finished with exercise 3."
     - Select "Commit and Push".
 - Alternativally, you can use git to add, commit, and push your changes:
     ```bash
     git add einstein.py
-    git commit -m "Finished with exercise 3"
+    git commit -m "Finished with exercise 3."
     git push
     ```
 Notice that by doing these steps you are only updating your assignment repository with the solution to this exercise. You still need to work on the other exercises and submit them. 
