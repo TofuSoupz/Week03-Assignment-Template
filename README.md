@@ -12,7 +12,7 @@ This assignment have exercises designed to test your understanding of Python bas
 
 ## Assignment Structure
 
-The assignment is structured into three main directories under the root folder `week03-assignment`:
+The assignment is structured into four main directories under the root folder `week03-assignment`:
 - `01-hello`
 - `02-inner`
 - `03-einstein`
@@ -25,7 +25,7 @@ Each directory contains specific tasks that you need to complete.
 1. **Navigate to the Exercise Folder**:
    - Click on the `01-hello` folder using the explorer view, on the left.
    - Open the `01-HELLO-README.md` to access the instructions and start working on the exercise. 
-   - Repeat these steps for Exercise 2-4. Be sure to read the *readme* file in those folders for specific tasks related to the exercises.
+   - Repeat these steps for Exercises 2-4. Be sure to read the *readme* file in those folders for specific tasks related to the exercises.
 
 ## General Tips
 - Make sure to frequently save and push your changes to your GitHub repository.
