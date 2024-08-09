@@ -12,7 +12,7 @@ This assignment have exercises designed to test your understanding of Python bas
 
 ## Assignment Structure
 
-The assignment is structured into four main directories under the root folder `week03-assignment`:
+The assignment is structured into the following directories under the root folder `week03-assignment`:
 - `01-hello`
 - `02-inner`
 - `03-einstein`
