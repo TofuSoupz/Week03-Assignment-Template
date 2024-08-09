@@ -3,6 +3,13 @@
 
 This assignment have exercises designed to test your understanding of Python basics and help you get comfortable with our learning environment. Let’s dive into each task and get started with coding!
 
+## Learning Objectives
+
+1. Understand and Utilize Basic Python Input Functions
+2. Apply Basic Mathematical Operations in Python
+3. Manipulate and Format Strings in Python
+4. Develop Basic Problem-Solving Skills
+
 ## Assignment Structure
 
 The assignment is structured into three main directories under the root folder `week03-assignment`:
