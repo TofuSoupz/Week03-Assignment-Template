@@ -31,8 +31,8 @@ Prompt the user to enter the following information:
     - Assume that the user will input only numeric values, such: `10` for 10% or `12.5` for 12.5%
 
 ## Expected Output
-- If you type 50.00 for the meal, and type 15 for the tip. Your program should output exactly: `Leave $7.50`
-- If you tyoe 100.00 for the meal, and type 18 for the tip. Your program should output exactly: `Leave $18.00`
+- If you type `50.00` for the meal, and type `15` for the tip. Your program should output exactly: `Leave $7.50`
+- If you tyoe `100.00` for the meal, and type `18` for the tip. Your program should output exactly: `Leave $18.00`
 
 Make sure the tip amount is displayed with exactly two numbers after the decimal point.
 
